@@ -6,3 +6,5 @@ D:\00.Project\NasBPDM\NasBPDM\obj\Release\NasBPDM.csproj.GenerateResource.Cache
 D:\00.Project\NasBPDM\NasBPDM\obj\Release\NasBPDM.exe
 D:\00.Project\NasBPDM\NasBPDM\obj\Release\NasBPDM.pdb
 D:\00.Project\NasBPDM\NasBPDM\obj\Release\NasBPDM.csprojResolveAssemblyReference.cache
+D:\Git\NasBPDM\NasBPDM\obj\Release\NasBPDM.exe
+D:\Git\NasBPDM\NasBPDM\obj\Release\NasBPDM.pdb

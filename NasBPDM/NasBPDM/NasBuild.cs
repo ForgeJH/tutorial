@@ -17,12 +17,8 @@ namespace NasBPDM
         public string _csprojPath { get; set; }
         public string _devPath { get; set; }
         public string _batPath { get; set; }
-        
-
-        
+                
         public string _sourceFolder { get; set; }
-        
-        
         public int _dayCount { get; set; }
         
 

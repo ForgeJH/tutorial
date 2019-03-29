@@ -1,0 +1,8 @@
+D:\00.Project\NasBPDM\NasBPDM\bin\Release\NasBPDM.exe
+D:\00.Project\NasBPDM\NasBPDM\bin\Release\NasBPDM.pdb
+D:\00.Project\NasBPDM\NasBPDM\obj\Release\NasBPDM.Form1.resources
+D:\00.Project\NasBPDM\NasBPDM\obj\Release\NasBPDM.Properties.Resources.resources
+D:\00.Project\NasBPDM\NasBPDM\obj\Release\NasBPDM.csproj.GenerateResource.Cache
+D:\00.Project\NasBPDM\NasBPDM\obj\Release\NasBPDM.exe
+D:\00.Project\NasBPDM\NasBPDM\obj\Release\NasBPDM.pdb
+D:\00.Project\NasBPDM\NasBPDM\obj\Release\NasBPDM.csprojResolveAssemblyReference.cache

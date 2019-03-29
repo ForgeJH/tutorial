@@ -1,0 +1,7 @@
+D:\00.Project\NasBPDM\NasBPDM\bin\Debug\NasBPDM.exe
+D:\00.Project\NasBPDM\NasBPDM\bin\Debug\NasBPDM.pdb
+D:\00.Project\NasBPDM\NasBPDM\obj\Debug\NasBPDM.Form1.resources
+D:\00.Project\NasBPDM\NasBPDM\obj\Debug\NasBPDM.Properties.Resources.resources
+D:\00.Project\NasBPDM\NasBPDM\obj\Debug\NasBPDM.csproj.GenerateResource.Cache
+D:\00.Project\NasBPDM\NasBPDM\obj\Debug\NasBPDM.exe
+D:\00.Project\NasBPDM\NasBPDM\obj\Debug\NasBPDM.pdb
